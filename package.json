@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/italocedrosales/clean-node-api#readme",
   "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "git-commit-msg-linter": "^4.1.3"
   }
 }
